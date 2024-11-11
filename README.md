@@ -1,6 +1,5 @@
 # landingOnCardano
-Fast Guide to travel through Cardano ecosystem with translations : https://barbedouce7.github.io/landingOnCardano/
-
+Fast Guide to travel through Cardano ecosystem with translations : https://barbedouce7.github.io/landing-on-cardano/
 
 ## Translations :  
 English : OK  
